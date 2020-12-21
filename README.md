@@ -16,3 +16,8 @@ WEB ANIMATION API
 - https://developer.mozilla.org/ja/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API
 
 - https://qiita.com/soarflat/items/4a302e0cafa21477707f
+
+- https://particle-love.com/
+
+14. Welcoming Animations
+- https://fireart.studio/blog/10-best-website-animation-techniques-for-your-web-design/
