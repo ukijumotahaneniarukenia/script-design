@@ -21,3 +21,5 @@ WEB ANIMATION API
 
 14. Welcoming Animations
 - https://fireart.studio/blog/10-best-website-animation-techniques-for-your-web-design/
+
+- https://www.forbes.com/cloud100/#5bfa2fea5f94
