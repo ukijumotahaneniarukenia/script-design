@@ -23,3 +23,5 @@ WEB ANIMATION API
 - https://fireart.studio/blog/10-best-website-animation-techniques-for-your-web-design/
 
 - https://www.forbes.com/cloud100/#5bfa2fea5f94
+
+ｰ https://www.forbes.com/sites/amyfeldman/2020/05/28/next-billion-dollar-startups-2020/?sh=6ce875403f9f
