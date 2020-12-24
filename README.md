@@ -25,3 +25,6 @@ WEB ANIMATION API
 - https://www.forbes.com/cloud100/#5bfa2fea5f94
 
 ｰ https://www.forbes.com/sites/amyfeldman/2020/05/28/next-billion-dollar-startups-2020/?sh=6ce875403f9f
+
+大規模コードになった時のディレクトリ分け方
+- https://qiita.com/tkyowa/items/ae9fa550237cb6f48318
