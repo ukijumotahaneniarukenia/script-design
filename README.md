@@ -28,3 +28,8 @@ WEB ANIMATION API
 
 大規模コードになった時のディレクトリ分け方
 - https://qiita.com/tkyowa/items/ae9fa550237cb6f48318
+
+
+すごい取り入れたい
+
+- https://www.esteelauderanrcade.com/en-us/
