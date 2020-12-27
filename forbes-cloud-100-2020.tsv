@@ -1,0 +1,101 @@
+Rank	Company	Industry	Funding	Headquarters	Employees	CEO
+1	Snowflake	Data platform	$1400 M	San Mateo, California	2000	Frank Slootman
+2	Stripe	Payments software	$1600 M	San Francisco, California	2800	Patrick Collison
+3	UiPath	Robotic process automation	$1200 M	New York, New York	2850	Daniel Dines
+4	HashiCorp	Infrastructure automation	$349 M	San Francisco, California	1000	Dave McJannet
+5	Databricks	Data analytics	$897 M	San Francisco, California	1442	Ali Ghodsi
+6	Confluent	Data platform	$456 M	Mountain View, California	1000	Jay Kreps
+7	Canva	Design software	$300 M	Sydney, Australia	1000	Melanie Perkins
+8	Procore	Construction software	$600 M	Carpinteria, California	2000	Tooey Courtemanche
+9	Rubrik	Data management	$553 M	Palo Alto, California	1600	Bipul Sinha
+10	Toast	Restaurant management	$850 M	Boston, Massachusetts	1500	Chris Comparato
+11	ServiceTitan	Contractor software	$327 M	Glendale, California	950	Ara Mahdessian
+12	Tanium	Cybersecurity	$837 M	Emeryville, California	1500	Orion Hindawi
+13	GitLab	DevOps software	$436 M	Remote, United States	1309	Sid Sijbrandij
+14	JFrog	DevOps software	$228 M	Sunnyvale, CA and Netanya, Israel	600	Shlomi Ben Haim
+15	Checkout.com	Payments software	$380 M	London, United Kingdom	750	Guillaume Pousaz
+16	Freshworks	Customer engagement	$327 M	San Mateo, California	3000	Girish Mathrubootham
+17	Asana	Team management	$214 M	San Francisco, California	900	Dustin Moskovitz
+18	Squarespace	Website building	$279 M	New York, New York	1143	Anthony Casalena
+19	Auth0	Identity access management	$330 M	Bellevue, Washington	700	Eugenio Pace
+20	Automation Anywhere	Robotic process automation	$840 M	San Jose, California	2000	Mihir Shukla
+21	Mailchimp	Marketing platform		Atlanta, Georgia	1200	Ben Chestnut
+22	Gusto	Payroll, benefits, and HR	$516 M	San Francisco, California	1300	Joshua Reeves
+23	Airtable	Software creation	$355 M	San Francisco, California	270	Howie Liu
+24	Zapier	Automation software	$1 M	Remote, United States	350	Wade Foster
+25	Samsara	Industrial IoT	$930 M	San Francisco, California	1350	Sanjit Biswas
+26	Segment	Customer data platform	$284 M	San Francisco, California	500	Peter Reinhardt
+27	Carta	Equity management	$628 M	San Francisco, California	840	Henry Ward
+28	Intercom	Customer communications software	$241 M	San Francisco, California	602	Karen Peacock
+29	Figma	Design software	$133 M	San Francisco, California	220	Dylan Field
+30	Veeam	Data management	$523 M	Columbus, Ohio	4600	Bill Largent
+31	Sisense	Data analytics	$270 M	New York, New York	800	Amir Orad
+32	Collibra	Data intelligence	$346 M	Brussels, Belgium and New York, NY	650	Felix Van de Maele
+33	monday.com	Team management	$234 M	Tel Aviv, Israel	670	Roy Mann
+34	Yardi	Real estate software		Santa Barbara, California	7036	Anant Yardi
+35	InVision	Design software	$350 M	New York, New York	600	Clark Valberg
+36	DataRobot	Enterprise AI	$431 M	Boston, Massachusetts	1000	Jeremy Achin
+37	OneTrust	Privacy, security and governance	$410 M	Atlanta, GA and London, UK	1500	Kabir Barday
+38	Sprinklr	Customer experience management	$439 M	New York, New York	1900	Ragy Thomas
+39	Celonis	Process mining software	$366 M	Munich, Germany and New York, NY	1000	Bastian Nominacher, Alexander Rinke
+40	Checkr	Background check software	$309 M	San Francisco, California	479	Daniel Yanisse
+41	ThoughtSpot	Data analytics	$554 M	Sunnyvale, California	580	Sudheesh Nair
+42	AvidXchange	Accounts payable automation	$110 M	Charlotte, North Carolina	1500	Michael Praeger
+43	Fivetran	Automated data integration	$163 M	Oakland, California	400	George Fraser
+44	Notion	Team collaboration	$67 M	San Francisco, California	70	Ivan Zhao
+45	Pindrop Security	Voice-based security	$213 M	Atlanta, Georgia	250	Vijay Balasubramaniyan
+46	Guild Education	Education software	$229 M	Denver, Colorado	718	Rachel Carlson
+47	Symphony Communication Services	Collaboration software	$460 M	Palo Alto, California	368	David Gurle
+48	Netskope	Cybersecurity	$744 M	Santa Clara, California	1032	Sanjay Beri
+49	Darktrace	Cybersecurity	$164 M	Cambridge, UK and San Francisco, CA	1216	Poppy Gustafsson
+50	Podium	Customer communications software	$218 M	Lehi, Utah	774	Eric Rea
+51	AppDirect	Subscription commerce	$465 M	San Francisco, California	750	Nicolas Desmarais, Dan Saks
+52	Seismic	Sales enablement	$179 M	San Diego, California	900	Doug Winter
+53	Talkdesk	Contact center software	$268 M	San Francisco, California	1000	Tiago Paiva
+54	Pendo	Product Adoption Software	$206 M	Raleigh, North Carolina	430	Todd Olson
+55	SumoLogic	Continuous Intelligence Platform	$340 M	Redwood City, California	500	Ramin Sayar
+56	Braze	Customer engagement management	$175 M	New York, New York	616	Bill Magnuson
+57	Miro	Collaboration software	$75 M	San Francisco, California	440	Andrey Khusid
+58	Lucid	Visual collaboration	$166 M	South Jordan, Utah	610	Karl Sun
+59	Postman	API platform	$207 M	San Francisco, California	200	Abhinav Asthana
+60	Cockroach Labs	Database management	$195 M	New York, New York	150	Spencer Kimball
+61	Airwallex	Digital payments	$362 M	Hong Kong	450	Jack Zhang
+62	AppsFlyer	Mobile measurement and attribution	$294 M	San Francisco, California	957	Oren Kaniel
+63	Automattic	Publishing and ecommerce software	$500 M	Remote, United States	1266	Matt Mullenweg
+64	Blend Labs	Digital lending platform	$385 M	San Francisco, California	500	Nima Ghamsari
+65	Cohesity	Data management	$650 M	San Jose, California	1300	Mohit Aron
+66	KeepTruckin	Transportation and logistics	$225 M	San Francisco, California	1400	Shoaib Makani
+67	Pipedrive	Sales CRM	$90 M	New York, New York	660	Raj Sabhlok
+68	C3.ai	Enterprise AI platform	$387 M	Redwood City, California	460	Thomas Siebel
+69	Icertis	Contract intelligence	$171 M	Bellevue, Washington	1300	Samir Bodas
+70	Dataiku	Enterprise AI platform	$247 M	New York, New York	450	Florian Douetteau
+71	Gong.io	Sales enablement	$333 M	San Francisco, California	355	Amit Bendov
+72	TripActions	Corporate travel and expense	$605 M	Palo Alto, California	900	Ariel Cohen
+73	Armis	Device security	$112 M	Palo Alto, California	350	Yevgeny Dibrov
+74	Dataminr	Enterprise AI platform	$577 M	New York, New York	600	Ted Bailey
+75	WalkMe	Product adoption software	$311 M	San Francisco, California	850	Dan Adika
+76	Grammarly	AI-powered writing assistant	$200 M	San Francisco, California	380	Brad Hoover
+77	DigitalOcean	Cloud infrastructure	$493 M	New York, New York	500	Yancey Spruill
+78	Branch	Mobile linking and attribution	$327 M	Redwood City, California	325	Alex Austin
+79	Weave	Business communications	$153 M	Lehi, Utah	591	Marty Smuin, Jeff Lyman
+80	Culture Amp	Employee experience platform	$158 M	Melbourne, Australia	400	Didier Elzinga
+81	Outreach	Sales engagement platform	$289 M	Seattle, Washington	590	Manny Medina
+82	HighRadius	Fintech enterprise software	$175 M	Houston, Texas	1500	Sashi Narahari
+83	Cloudinary	Media experience management		Santa Clara, California	263	Itai Lahan
+84	Yotpo	Ecommerce marketing	$176 M	New York, New York	450	Tomer Tagrin
+85	Illumio	End-to-end segmentation	$333 M	Sunnyvale, California	346	Andrew Rubin
+86	Snyk	Developer security	$450 M	Boston, Massachusetts	310	Peter McKay
+87	BambooHR	HR software		Linden, Utah	600	Bradley Rencher
+88	Gainsight	Customer success management	$156 M	San Francisco, California	700	Nick Mehta
+89	Amplitude	Product analytics	$186 M	San Francisco, California	342	Spenser Skates
+90	VTS	Real estate software	$197 M	New York, New York	300	Nick Romito
+91	Riskified	Ecommerce fraud prevention	$229 M	New York, New York	567	Eido Gal
+92	Lookout	Mobile endpoint security	$282 M	San Francisco, California	292	Jim Dolce
+93	BigID	Data, privacy and protection	$146 M	New York, New York	200	Dimitri Sirota
+94	Front	Customer communications platform	$138 M	San Francisco, California	180	Mathilde Collin
+95	Benchling	Lifes sciences platform	$114 M	San Francisco, California	261	Sajith Wickramasekara
+96	DISCO	Legal software	$135 M	Austin, Texas	310	Kiwi Camara
+97	Webflow	Visual web development	$75 M	San Francisco, California	176	Vlad Magdalin
+98	Highspot	Sales enablement software	$200 M	Seattle, Washington	500	Robert Wahbe
+99	BitSight	Cybersecurity risk management	$151 M	Boston, Massachusetts	450	Steve Harvey
+100	LaunchDarkly	Feature management platform	$130 M	Oakland, California	200	Edith Harbaugh
