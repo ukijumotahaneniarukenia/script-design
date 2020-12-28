@@ -33,3 +33,7 @@ WEB ANIMATION API
 すごい取り入れたい
 
 - https://www.esteelauderanrcade.com/en-us/
+
+
+アイデアがいい
+- https://ideasforgood.jp/2017/02/17/froodly/
