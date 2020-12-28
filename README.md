@@ -53,3 +53,7 @@ WEB ANIMATION API
 ハンディな受発注管理サービス
 
 - https://the-board.jp/
+
+メール配信サービス
+
+- https://blastmail.jp/blog/mail-delivery/select20
