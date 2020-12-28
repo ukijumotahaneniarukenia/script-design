@@ -45,3 +45,11 @@ WEB ANIMATION API
 動画配信サービス
 
 - https://www.dacast.com/blog/top-10-video-live-streaming-solutions-for-pros/
+
+ハンディそうな在庫管理サービス
+
+- https://www.zaico.co.jp/
+
+ハンディな受発注管理サービス
+
+- https://the-board.jp/
