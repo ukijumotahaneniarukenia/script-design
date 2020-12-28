@@ -40,3 +40,8 @@ WEB ANIMATION API
 
 
 - https://aruku-s.jp/apppage/
+
+
+動画配信サービス
+
+- https://www.dacast.com/blog/top-10-video-live-streaming-solutions-for-pros/
