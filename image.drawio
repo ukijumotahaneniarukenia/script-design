@@ -1,0 +1,77 @@
+<mxfile host="65bd71144e" modified="2020-12-29T08:55:45.989Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" version="13.10.0" etag="9U4vRbxnV9oXFxfKgFTl" type="embed">
+    <diagram id="eZGEjzrKFFpCfhGf969G" name="Page-1">
+        <mxGraphModel dx="1616" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="一次生産者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="30" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="飲食店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="910" y="420" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4" target="28">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="529.5" y="600" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="MASH DISH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="420" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="顧客" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="420" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="受発注機能&lt;br&gt;ECサイトテンプレート機能&lt;br&gt;アプリ配布機能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="611" y="230" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="予約管理機能&lt;br&gt;受発注機能&lt;br&gt;レビュー管理機能&lt;br&gt;生産者情報管理機能&lt;br&gt;アプリ配布機能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="735" y="360" width="130" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="店舗登録&lt;br&gt;レシピ登録&lt;br&gt;料理現場動画登録&lt;br&gt;チケット登録&lt;br&gt;アプリ購入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="735" y="490" width="131" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="動画レビュー&lt;br&gt;オンライン予約&lt;br&gt;自作アプリ登録" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="360" width="100" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;span&gt;予約検索機能&lt;/span&gt;&lt;br&gt;&lt;span&gt;予約管理機能&lt;br&gt;動画配信機能&lt;br&gt;チケット配布機能&lt;br&gt;API機能&lt;br&gt;多言語提案機能&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="490" width="100" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="食材登録&lt;br&gt;生産現場動画登録&lt;br&gt;生産者登録&lt;br&gt;チケット登録&lt;br&gt;アプリ購入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="230" width="160" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="28" target="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="629.5" y="600" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="MASH DISH HUB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="479.5" y="740" width="200" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="アプリアップロード" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="429" y="600" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="アプリダウンロード" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="600" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
