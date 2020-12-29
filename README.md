@@ -43,4 +43,6 @@ WEB ANIMATION API
 
 メール配信サービス
 
-- https://blastmail.jp/blog/mail-delivery/select20
+- https://support.sendgrid.kke.co.jp/hc/ja/articles/205757925-HTML%E3%83%A1%E3%83%BC%E3%83%AB-%E3%83%9E%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%AB%E5%AF%BE%E5%BF%9C%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B-
+
+- https://sendgrid.kke.co.jp/
