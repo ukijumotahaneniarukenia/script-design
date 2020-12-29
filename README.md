@@ -2,8 +2,6 @@
 
 - https://qiita.com/aiandrox/items/4196c8f5b564d29fdce7
 
-- https://codepen.io/JulianLaval/pen/KpLXOO/
-
 - https://www.toptal.com/designers/e-commerce/ecommerce-ux-best-practices
 
 ダークとライトの配色の違い
@@ -23,17 +21,6 @@ WEB ANIMATION API
 - https://fireart.studio/blog/10-best-website-animation-techniques-for-your-web-design/
 
 - https://www.forbes.com/cloud100/#5bfa2fea5f94
-
-ｰ https://www.forbes.com/sites/amyfeldman/2020/05/28/next-billion-dollar-startups-2020/?sh=6ce875403f9f
-
-大規模コードになった時のディレクトリ分け方
-- https://qiita.com/tkyowa/items/ae9fa550237cb6f48318
-
-
-すごい取り入れたい
-
-- https://www.esteelauderanrcade.com/en-us/
-
 
 アイデアがいい
 - https://ideasforgood.jp/2017/02/17/froodly/
