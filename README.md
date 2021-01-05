@@ -50,3 +50,6 @@ WEB ANIMATION API
 スマホのハンバーガーメニューが見やすい
 
 - https://www.tsuku-lapp.com/case_of_sales-promotion/message_app.html
+
+
+- https://qiita.com/Nonato_Note/items/ba57db7856ca8a6dd711
