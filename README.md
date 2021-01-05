@@ -22,6 +22,8 @@ WEB ANIMATION API
 
 - https://www.forbes.com/cloud100/#5bfa2fea5f94
 
+- https://shorthand.com/
+
 アイデアがいい
 - https://ideasforgood.jp/2017/02/17/froodly/
 
