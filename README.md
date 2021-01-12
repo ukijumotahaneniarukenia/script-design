@@ -4,7 +4,7 @@
 
 - https://www.toptal.com/designers/e-commerce/ecommerce-ux-best-practices
 
-
+- https://qiita.com/baby-degu/items/1b65414d856fff671c6f
 フォームの実装例
 - https://html.form.guide/html-form/html-input-type-password/
 
