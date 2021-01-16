@@ -1,5 +1,10 @@
 # script-design
 
+iframeとdrag and dropでページ作成する例
+- https://stackoverflow.com/questions/14692448/drag-drop-elements-between-parent-frame-and-child-iframe
+- https://bulma.dev/
+- https://blog.stackhive.com/post/137799349684/building-a-seamless-drag-and-drop-interface
+
 - https://qiita.com/aiandrox/items/4196c8f5b564d29fdce7
 
 - https://www.toptal.com/designers/e-commerce/ecommerce-ux-best-practices
