@@ -1,6 +1,9 @@
 # script-design
 
 スタイルガイド
+
+- https://dev.to/emmabostian/design-systems-part-ii-design-language-217k
+
 - https://www.google.com/amp/s/amp.i3design.jp/in-pocket/5345
 
 - https://gist.github.com/teybannerman/9c234424eb1d940a8505#file-ux-ui-design-resources-md
