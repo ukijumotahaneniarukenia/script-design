@@ -1,5 +1,8 @@
 # script-design
 
+- ペインレイアウト
+  - https://antoniandre.github.io/wave-ui/splitter
+
 - UA関連
   - https://qiita.com/nightyknite/items/b2590a69f2e0135756dc
   - https://webmaster-ja.googleblog.com/2012/11/giving-tablet-users-full-sized-web.html
