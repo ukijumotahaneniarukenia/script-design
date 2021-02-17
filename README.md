@@ -7,6 +7,8 @@
     - https://editorjs.io/
   - https://developer.mozilla.org/ja/docs/Web/Guide/HTML/Editable_content#example_a_simple_but_complete_rich_text_editor
 
+  - https://www.wsts.info/web/web01.php
+
 - ペインレイアウト
   - https://antoniandre.github.io/wave-ui/splitter
 
