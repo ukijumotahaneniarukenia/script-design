@@ -1,6 +1,7 @@
 # script-design
 
 - WYSIWYG
+  - https://teratail.com/questions/29072
   - https://qiita.com/mgmgmogumi/items/06b12e7f09a8d9041caa
   - https://qiita.com/mima_ita/items/bacf3ca3c078d1e6c70f
   - 自動保存機能の用途でつかえそう
