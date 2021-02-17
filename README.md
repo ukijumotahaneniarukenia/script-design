@@ -5,6 +5,7 @@
   - https://qiita.com/mima_ita/items/bacf3ca3c078d1e6c70f
   - 自動保存機能の用途でつかえそう
     - https://editorjs.io/
+  - https://developer.mozilla.org/ja/docs/Web/Guide/HTML/Editable_content#example_a_simple_but_complete_rich_text_editor
 
 - ペインレイアウト
   - https://antoniandre.github.io/wave-ui/splitter
