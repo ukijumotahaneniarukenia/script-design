@@ -1,6 +1,10 @@
 # script-design
 
+- W3
+  - https://docs.w3cub.com
+
 - WYSIWYG
+
   - https://teratail.com/questions/29072
   - https://qiita.com/mgmgmogumi/items/06b12e7f09a8d9041caa
   - https://qiita.com/mima_ita/items/bacf3ca3c078d1e6c70f
