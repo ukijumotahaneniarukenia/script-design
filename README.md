@@ -1,5 +1,8 @@
 # script-design
 
+- レスポンシブ対応する際の推奨レイアウト構成
+  - https://developer.android.com/training/multiscreen/screensizes#TaskUseSWQuali
+
 - W3
   - https://docs.w3cub.com
 
