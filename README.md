@@ -3,6 +3,9 @@
 - レスポンシブ対応する際の推奨レイアウト構成
   - https://developer.android.com/training/multiscreen/screensizes#TaskUseSWQuali
 
+  - 超便利
+    - https://screensizemap.com/
+
 - W3
   - https://docs.w3cub.com
 
