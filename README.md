@@ -8,6 +8,10 @@
 
   - 計算式
     - https://material.io/blog/device-metrics
+  
+  - 製品インチサイズ一覧表
+    - https://www.gsmarena.com
+
 
 - W3
   - https://docs.w3cub.com
