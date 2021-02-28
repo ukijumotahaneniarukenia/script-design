@@ -1,5 +1,7 @@
 # script-design
 
+- https://qiita.com/Tsuyoshi84/items/ce2b664cdf5776970fbe
+
 - レスポンシブ対応する際の推奨レイアウト構成
   - https://developer.android.com/training/multiscreen/screensizes#TaskUseSWQuali
 
