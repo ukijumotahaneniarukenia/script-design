@@ -1,5 +1,18 @@
 # script-design
 
+- スタイルガイド
+  - https://ux.mailchimp.com/patterns/buttons
+
+  - https://www.starbucks.com/developer/pattern-library
+
+  - https://github.com/styleguide/css
+
+  - https://primer.style/css/
+
+  - http://patterns.alistapart.com/
+
+  - https://alistapart.com/about/style-guide/
+
 - https://qiita.com/Tsuyoshi84/items/ce2b664cdf5776970fbe
 
 - レスポンシブ対応する際の推奨レイアウト構成
