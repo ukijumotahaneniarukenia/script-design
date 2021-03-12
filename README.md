@@ -1,5 +1,8 @@
 # script-design
 
+- ギャラリー
+  - https://cssdeck.com/picks/2
+
 - スタイルガイド
   - https://ux.mailchimp.com/patterns/buttons
 
