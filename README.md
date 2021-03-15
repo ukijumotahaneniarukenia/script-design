@@ -1,5 +1,8 @@
 # script-design
 
+- セレクタチートシート
+  - https://medium.com/design-code-repository/css-selectors-cheatsheet-details-9593bc204e3f
+
 - パターンライブラリー
   - https://github.com/alexpate/awesome-design-systems
 
