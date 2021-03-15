@@ -1,5 +1,8 @@
 # script-design
 
+- パターンライブラリー
+  - https://github.com/alexpate/awesome-design-systems
+
 - CSS力向上委員会
   - https://mjswensen.github.io/css-power-ups/
 
