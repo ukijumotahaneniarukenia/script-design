@@ -1,5 +1,8 @@
 # script-design
 
+- コンポーネント機能言語化
+  - https://spectrum.adobe.com/page/principles/
+
 - セレクタチートシート
   - https://medium.com/design-code-repository/css-selectors-cheatsheet-details-9593bc204e3f
 
