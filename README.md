@@ -3,6 +3,9 @@
 - コンポーネント機能言語化
   - https://spectrum.adobe.com/page/principles/
 
+- iOSのデザインなど spectrumに着目している
+  - https://bagelee.com/design/ui/learn_ui_design_from_citymapper/
+
 - セレクタチートシート
   - https://medium.com/design-code-repository/css-selectors-cheatsheet-details-9593bc204e3f
 
