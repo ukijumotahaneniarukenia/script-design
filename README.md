@@ -1,5 +1,8 @@
 # script-design
 
+- Product Huntから毎日情報を取ってきてくれるやつ
+  - https://timemachine.betamode.dev/
+
 - 料金体系がいい感じなのとPDFからなにがしかの成果物が出る感じがすごい
   - https://www.sejda.com/html-pdf-api
 
