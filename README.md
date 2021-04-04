@@ -1,5 +1,8 @@
 # script-design
 
+- 料金体系がいい感じなのとPDFからなにがしかの成果物が出る感じがすごい
+  - https://www.sejda.com/html-pdf-api
+
 - テンプレートもりもり
   - https://webframe.xyz/products/stripe
 
