@@ -1,5 +1,11 @@
 # script-design
 
+- 404ページイラスト
+  - https://error404.fun/
+
+- イラスト
+  - https://opendoodles.com/
+
 - コンポーネント機能言語化
   - https://spectrum.adobe.com/page/principles/
 
