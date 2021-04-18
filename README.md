@@ -1,5 +1,9 @@
 # script-design
 
+- モックアップツール
+  - https://webflow.com/blog/prototyping-tools
+
+
 - Product Huntから毎日情報を取ってきてくれるやつ
   - https://timemachine.betamode.dev/
 
