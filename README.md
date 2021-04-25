@@ -1,5 +1,9 @@
 # script-design
 
+2021/04/26時点 こんな結果
+https://www.16personalities.com/ja/intj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC
+
+
 - すごい迫力ある写真
   - https://natureismetal.co/
 
